@@ -1,8 +1,5 @@
-# flutter_flip
+# Flip Animation
 
-A new Flutter project.
+Code showing how to flip a widget in flutter
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+For further details - https://youtu.be/rMuXmyqTOSc
